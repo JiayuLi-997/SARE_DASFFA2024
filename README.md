@@ -6,7 +6,12 @@ These are the implementation and a toy dataset for the paper:
 Please cite the paper if you find our work useful. Thank you!
 
 ```
-To be released.
+@article{li2024situation,
+  title={A Situation-aware Enhancer for Personalized Recommendation},
+  author={Li, Jiayu and Sun, Peijie and Jiang, Chumeng and Ma, Weizhi and Ai, Qingyao and Zhang, Min},
+  journal={arXiv preprint arXiv:2403.18317},
+  year={2024}
+}
 ```
 
 If you have any problem about this work or the dataset, please raise the issues or contact with Jiayu Li at jy-li20@mails.tsinghua.edu.cn.
